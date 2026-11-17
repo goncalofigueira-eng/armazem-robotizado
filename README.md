@@ -8,7 +8,7 @@ Repositório dedicado à documentação técnica e projeto de automação indust
 * **Instituição**: Universidade de Aveiro – Escola Superior de Tecnologia e Gestão de Águeda (ESTGA).
 * **Grupo 2**: 
   * André XXX
-  * Gonçalo Alexandre Silva Figueira (n.º mec: 109 438)
+  * Gonçalo Alexandre Silva FigueirA
   * Luiz XXX
   * Tiago XXX
 * **Ano de Fabrico / Projeto**: 2022/2023.
