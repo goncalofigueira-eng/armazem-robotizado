@@ -1,4 +1,4 @@
-# Armazém Robotizado 🏭[cite: 415]
+# Armazém Robotizado
 
 Repositório dedicado à documentação técnica e projeto de automação industrial de um **Armazém Robotizado**.
 
